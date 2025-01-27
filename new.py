@@ -1,2 +1,2 @@
-add=3+5
+add=100+110
 print(add)
